@@ -6,10 +6,10 @@ Project to create an Arduino-based adapter that takes input from any standard N6
 
 Requirements:
 
--Compatible with original or 3rd party hardware controllers, without adapting or damaging the controller.
+-Compatible with original or 3rd party hardware controllers, without adapting or damaging the controller
 
 -Drum mode following the General MIDI standard Drum Map on Channel 10
 
--Synth mode (loosely) based on the Ocarina controls from Ocarina of Time on Channel 10.
+-Synth mode (loosely) based on the Ocarina controls from Ocarina of Time on Channel 1
 
--Send MIDI out on both USB and 5 Pin MIDI
+-Send MIDI out on both USB and 5 Pin MIDI if possible, create alternate code for either if not
