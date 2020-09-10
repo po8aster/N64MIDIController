@@ -912,7 +912,7 @@ int pitchBendUSBval = pbState; //make a seperate value to modify for USB
 
   // send the pitch bend message:
   midiCommand(pbUSB, lsb, msb); //number after E is the channel for the message
-
+  MidiUSB.flush();
   //Pitch Bend for Traditional MIDI
   int pitchBendTrad = pbState - 8192; //make a new value for Traditional MIDI
   MIDI.sendPitchBend(pitchBendTrad, pbT);
