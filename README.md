@@ -18,7 +18,7 @@ N64>MIDI is an Arduino-based adapter that takes input from any standard N64 Cont
   * Arduino Pro Micro - 3.3v Version
   * 220 Ohm Resistor x2 (1/4 watt is fine)
   * 33 Ohm Resistor (1/2 watt)
-  * 2 LEDs
+  * LEDs x2
   * Momentary Pushbutton
   * MIDI (5 Pin DIN) Connector
   * N64 Controller Extension Cable
