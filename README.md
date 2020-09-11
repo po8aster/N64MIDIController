@@ -4,7 +4,7 @@
 N64>MIDI is an Arduino-based adapter that takes input from any standard N64 Controller, translates those inputs to MIDI notes and CC data, and transmits them via both USB and 5-pin MIDI.
 
 ## Software:
-* See the code section to download or copy the code
+* See the code section to download or copy the code.
   * If you aren't familiar with Ardunio IDE, loading sketches, and loading libraries there are lots of great tutorials out there, and I won't try to recreate that info here. But Google those terms and you should be on your way!
 * Required Libraries:
   * [MIDI Library - Francois Best](https://www.arduino.cc/reference/en/libraries/midi-library/)
