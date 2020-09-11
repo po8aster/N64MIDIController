@@ -30,4 +30,4 @@ I created my prototype using a 5v Pro Micro Board as I don't have a 3.3v board h
 
 The N64 Controller is only rated for 3.3v, so **using a 5v board could destroy your controller**. You should only do this if you  don't care if the controller you plug in is destroyed. I was using a cheap ebay knockoff and didn't have issues, but wouldn't have been too upset if it had melted.
 
-But for the sake of knowledge: follow the same schematic but swap out the 33 Ohm Resistor for another 220 Ohm Resistor (1/4 will work with the 5v version).
+But for the sake of knowledge: follow the same schematic but swap out the 33 Ohm Resistor for another 220 Ohm Resistor (1/4 will work with the 5v version). That's it, good luck!
