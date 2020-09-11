@@ -15,7 +15,7 @@ N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarin
 * If you want to change the USB MIDI Device Name after you've got it working, there is an excellent guide [here](http://liveelectronics.musinou.net/MIDIdeviceName.php) on how to do so. I am not quite sure how to credit the creator properly, but it was extremely helpful for me.
 
 ## Hardware:
-* See the Schematic section for wiring diagram.
+* See the [Schematic](https://github.com/po8aster/N64MIDIController/tree/master/Schematic) section for wiring diagram.
 * Parts list:
   * Arduino Pro Micro - 3.3v Version
   * 220 Ohm Resistor x2 (1/4 watt is fine)
