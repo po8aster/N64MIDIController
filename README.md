@@ -1,10 +1,12 @@
 # N64>MIDI
 ## N64 MIDI Controller
 
-N64>MIDI is an Arduino-based adapter that takes input from any standard N64 Controller, translates those inputs to MIDI notes and CC data, and transmits them via both USB and 5-pin MIDI.
+N64>MIDI is an Arduino-based interface that takes input from any standard N64 Controller, translates those inputs to MIDI notes and CC data, and transmits them via both USB and 5-pin MIDI.
+
+N64>MIDI has two modes, Drum and Synth Mode. See the [Controller Mapping](https://github.com/po8aster/N64MIDIController/tree/master/Controller%20Mapping) section for details on how each mode functions. Pressing the button switches between modes, indicated by the LEDs. 
 
 ## Software:
-* See the code section to download or copy the code.
+* See the [Code](https://github.com/po8aster/N64MIDIController/tree/master/Code) section to download or copy the code.
   * If you aren't familiar with Ardunio IDE, loading sketches, and loading libraries there are lots of great tutorials out there, and I won't try to recreate that info here. But Google those terms and you should be on your way!
 * Required Libraries:
   * [MIDI Library - Francois Best](https://www.arduino.cc/reference/en/libraries/midi-library/)
