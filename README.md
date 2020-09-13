@@ -3,7 +3,7 @@
 
 N64>MIDI is an Arduino-based interface that takes input from any standard N64 Controller, translates those inputs to MIDI notes and CC data, and transmits them via both USB and 5-pin MIDI.
 
-N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarina controls from Ocarina of Time. See the [Controller Mapping](https://github.com/po8aster/N64MIDIController/tree/master/Controller%20Mapping) section for details on how each mode functions. Pressing the button switches between modes, indicated by the LEDs. 
+N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarina controls from Ocarina of Time. See the [Controller Mapping](https://github.com/po8aster/N64MIDIController/tree/master/Controller%20Mapping) section for details on how each mode functions. Pressing the button switches between modes, indicated by the LEDs.
 
 ## Software:
 * See the [Code](https://github.com/po8aster/N64MIDIController/tree/master/Code) section to download or copy the code.
@@ -26,6 +26,7 @@ N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarin
   * N64 Controller Extension Cable
 * For more details on hooking things up, take a look at NicoHood's library linked above. My project simply modifies that project to convert inputs to MIDI signals on the code side, so reading over those guides is well worth your time.
   
+#### If you build it and like it, please consider a small donation using the Sponsor button to buy me a beer for my efforts. Obviously not required at all, but always appreciated! 
 
 ## 5v YOLO Version
 I created my prototype using a 5v Pro Micro Board as I don't have a 3.3v board handy. These are the notes if you don't have a 3.3v board and cant be bothered to get the right voltage.
