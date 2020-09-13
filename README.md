@@ -20,7 +20,7 @@ N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarin
   * Arduino Pro Micro - 3.3v Version
   * 220 Ohm Resistor x2 (1/4 watt is fine)
   * 33 Ohm Resistor (1/2 watt)
-  * LEDs x2
+  * LEDs x2 (choose whatever color you want, but for what it's worth I use Green for Drum Mode and Blue for Synth Mode)
   * Momentary Pushbutton
   * MIDI (5 Pin DIN) Connector
   * N64 Controller Extension Cable
