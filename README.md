@@ -16,6 +16,7 @@ N64>MIDI has two modes, a Drum Mode and a Synth Mode loosely based on the ocarin
 
 ## Hardware:
 * See the [Schematic](https://github.com/po8aster/N64MIDIController/tree/master/Schematic) section for wiring diagram.
+  * This project uses the same hardware as the [Gamecube MIDI Interface](https://github.com/po8aster/GCMIDIController). The only difference is that the controller connections for the N64 are only 3.3v, GND, and Data. The other controller connections in the schematic are not used.
 * Parts list:
   * Arduino Pro Micro - 5v Version
   * 220 Ohm Resistor x3 (1/4 watt is fine)
