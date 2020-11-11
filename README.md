@@ -36,4 +36,4 @@ I created my prototype using a 5v Pro Micro Board without using a Logic Level Co
 
 The N64 Controller is only rated for 3.3v, so **using a 5v board could destroy your controller**. You should only do this if you don't care if the controller you plug in is destroyed. I was using a cheap eBay knockoff and didn't have issues, but I wouldn't have been too upset if it had melted.
 
-But for the sake of knowledge: if you remove the Logic Level Converter and Voltage Regulator from the schematic it will still function, but don't be upset with me if it destroys your controller. I highly reccommend just spending the extra $1-2.
+But for the sake of knowledge: if you remove the Logic Level Converter and Voltage Regulator from the schematic it will still function, but don't be upset with me if it destroys your controller. I highly recommend just spending the extra $1-2.
